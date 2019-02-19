@@ -195,6 +195,7 @@ exports.handler = skillBuilder
     HelpIntentHandler,
     CancelAndStopIntentHandler,
     SessionEndedRequestHandler,
+    BuyPowerUpIntentHandler,
     PostBuyConnectionsHandler
   )
   .addRequestInterceptors(

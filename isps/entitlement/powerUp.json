@@ -8,8 +8,8 @@
         "name": "Mega Power Up",
         "summary": "Mega power up, makes the user stronger.",
         "description": "Mega power up.",
-        "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/665d/bb5823da92664e6eba82512e9809f516/APP_ICON?versionId=MffA7CCKAfQLw6KTbj9RfHpPJTE.CgP.&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1550663275&Signature=OxIeKRXyrj9akAaegeICE%2BuIi8I%3D",
-        "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/3e05/ff8fdad6a96846a0a3d4050115556b7d/APP_ICON_LARGE?versionId=LdOGKU2zNb_RLb9_4v0LiKcElPiADyaq&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1550663275&Signature=KQFUXGpq0Mds99R5IVaB6o%2FgBRQ%3D",
+        "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/665d/bb5823da92664e6eba82512e9809f516/APP_ICON?versionId=MffA7CCKAfQLw6KTbj9RfHpPJTE.CgP.&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1550664526&Signature=Di1jdBABABmUT%2BXsBRbho6W7Gdg%3D",
+        "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/3e05/ff8fdad6a96846a0a3d4050115556b7d/APP_ICON_LARGE?versionId=LdOGKU2zNb_RLb9_4v0LiKcElPiADyaq&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1550664526&Signature=ziQt4w5HF7tfBJSuW7CFPecPVEQ%3D",
         "examplePhrases": [
           "'Alexa, buy mega power up.'"
         ],
