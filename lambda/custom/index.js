@@ -171,9 +171,9 @@ const PostBuyConnectionsHandler = {
 const ProductsCheckerInterceptor = {
   async process(handlerInput) {
     const request = handlerInput.requestEnvelope.request;
-    if (request.session.new === true) {
+    if (handlerInput.requestEnvelope.session.new === true) {
       try {
-        const locale = handlerInput.requestEnvelope.request.locale;
+        const locale = request.locale;
         const ms = handlerInput.serviceClientFactory.getMonetizationServiceClient();
         const result = await ms.getInSkillProducts(locale);
         const sessionAttributes = handlerInput.attributesManager.getSessionAttributes();
