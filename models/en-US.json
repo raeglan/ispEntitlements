@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "hello world",
+      "invocationName": "munich entitlements",
       "intents": [
         {
           "name": "AMAZON.CancelIntent",
@@ -19,6 +19,14 @@
           "name": "HelloWorldIntent",
           "samples": [
             "hello"
+          ]
+        },
+        {
+          "name": "BuyPowerUpIntent",
+          "samples": [
+            "Buy the mega power up.",
+            "Give me a boost.",
+            "I want to buy the power up."
           ]
         }
       ]

@@ -1,0 +1,50 @@
+{
+  "version": "1.0",
+  "type": "ENTITLEMENT",
+  "referenceName": "powerUp",
+  "publishingInformation": {
+    "locales": {
+      "en-US": {
+        "name": "Mega Power Up",
+        "summary": "Mega power up, makes the user stronger.",
+        "description": "Mega power up.",
+        "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/665d/bb5823da92664e6eba82512e9809f516/APP_ICON?versionId=MffA7CCKAfQLw6KTbj9RfHpPJTE.CgP.&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1550663275&Signature=OxIeKRXyrj9akAaegeICE%2BuIi8I%3D",
+        "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/3e05/ff8fdad6a96846a0a3d4050115556b7d/APP_ICON_LARGE?versionId=LdOGKU2zNb_RLb9_4v0LiKcElPiADyaq&AWSAccessKeyId=AKIAJFEYRBGIHK2BBYKA&Expires=1550663275&Signature=KQFUXGpq0Mds99R5IVaB6o%2FgBRQ%3D",
+        "examplePhrases": [
+          "'Alexa, buy mega power up.'"
+        ],
+        "keywords": [
+          "power-up, mega"
+        ],
+        "customProductPrompts": {
+          "purchasePromptDescription": "This power up makes you invisible when no one is looking and allows you to fly 1 nanometer over solid ground.",
+          "boughtCardDescription": "Yippie, you can show who's boss."
+        }
+      }
+    },
+    "distributionCountries": [
+      "US"
+    ],
+    "pricing": {
+      "amazon.com": {
+        "releaseDate": "2019-02-19T00:00Z",
+        "defaultPriceListing": {
+          "price": 2.99,
+          "currency": "USD"
+        }
+      }
+    },
+    "taxInformation": {
+      "category": "SOFTWARE"
+    }
+  },
+  "privacyAndCompliance": {
+    "locales": {
+      "en-US": {
+        "privacyPolicyUrl": "https://rafaelmiranda.de/"
+      }
+    }
+  },
+  "testingInstructions": "To test just buy the product.",
+  "purchasableState": "PURCHASABLE"
+}
